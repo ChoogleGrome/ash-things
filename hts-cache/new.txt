@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:09:12	69/69	---MCZ	200	added ('OK')	text/plain	date:Sat,%2024%20Oct%202020%2009:39:11%20GMT	https://www.theshovel.com.au/robots.txt		(from )
+20:09:12	68860/68860	---MCZ	200	added ('OK')	text/html	date:Sat,%2024%20Oct%202020%2009:39:12%20GMT	https://www.theshovel.com.au/2020/10/21/government-launches-new-track-and-trace-app-to-find-covidsafe/	C:/Users/aquif/Documents/Programming%20Files/the-onion/donwloaded-html/The%20Shovel/www.theshovel.com.au/2020/10/21/government-launches-new-track-and-trace-app-to-find-covidsafe/index.html	(from )
